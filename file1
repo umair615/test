@@ -1,3 +1,8 @@
 this is file 1
 abc file
+<<<<<<< HEAD
 12345678
+=======
+12345678git
+hsdhsvdhsdh
+>>>>>>> 5bc4f79 (this is the latest change)
